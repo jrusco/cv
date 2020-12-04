@@ -10,7 +10,7 @@ _Currently working with Java, Spring, Apache Kafka, MySQL and Docker_
 
 **Software Engineer** @ [Elementum](https://www.elementum.com/) _(Jul 2017 - Present)_
 
-Sillicon Valley startup creating a digintal platform for supply chain management.
+Sillicon Valley startup creating a digital platform for supply chain management.
 
 * Build a public API for external users to upload file attachments and associate them with existing platform entities.
 * Create an email notification service for customers taking into account user-set preferences as well as localization settings for each individual recipient.
@@ -21,7 +21,15 @@ Sillicon Valley startup creating a digintal platform for supply chain management
 
 **Software Engineer** @ [IBM](https://www.ibm.com/planetwide/ar/) _(Apr 2016 - Jul 2017)_
 
-Backend API infrastructure implementation for a financial sector entity.
+Financial/banking sector API infrastructure implementation.
 
 * Worked alongside the client’s team in the design and implementation of  REST microservices as part of a project for the local branch of the HSBC bank.
 * Implemented and delivered the solution’s statistics module by coordinating a team of four backend devs that got the job done effectively and on time.
+
+**Software Engineer** @ [Globant](https://www.globant.com/) _(Apr 2015 - Apr 2016)_
+
+Worldwide turism and entertainment booking services.
+
+* Acted as part of an agile, multidisciplinary and multicultural development team in the modernization of the backend services of the client’s US Parks and Resorts website.
+* Owned and improved code coverage for legacy Java apps, allowing quicker refactoring and easier bug triaging.
+* Performed services profiling and refactoring aimed to boost performance and resource usage of existing solutions.
