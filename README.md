@@ -33,3 +33,11 @@ Worldwide turism and entertainment booking services.
 * Acted as part of an agile, multidisciplinary and multicultural development team in the modernization of the backend services of the client’s US Parks and Resorts website.
 * Owned and improved code coverage for legacy Java apps, allowing quicker refactoring and easier bug triaging.
 * Performed services profiling and refactoring aimed to boost performance and resource usage of existing solutions.
+
+## 💬 Languages
+* **Spanish**: Native
+* **English**: C1
+
+## 👨‍🎓 Education
+**Analista de Sistemas** _technical degree_ @
+[Inst. Sup. Juan XXIII](https://www.juan23.edu.ar/) - Bahia Blanca, ARG (_2009 - 2012_)
