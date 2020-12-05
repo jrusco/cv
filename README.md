@@ -37,7 +37,3 @@ Worldwide turism and entertainment booking services.
 ## 💬 Languages
 * **Spanish**: Native
 * **English**: C1
-
-## 👨‍🎓 Education
-**Analista de Sistemas** _technical degree_ @
-[Inst. Sup. Juan XXIII](https://www.juan23.edu.ar/) - Bahia Blanca, ARG (_2009 - 2012_)
