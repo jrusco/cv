@@ -2,7 +2,7 @@
 
 _Backend software developer, based in Argentina._
 
-[Email](mailto:jrusco@pm.me) / [LinkedIn](www.linkedin.com/in/jrusco) / [GitHub](https://github.com/jrusco)
+[Email](mailto:jrusco@pm.me) / [LinkedIn](https://www.linkedin.com/in/jrusco/) / [GitHub](https://github.com/jrusco)
 
 ## 🛠️ Experience
 
