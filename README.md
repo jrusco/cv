@@ -12,7 +12,7 @@ Sillicon Valley startup creating a digital platform for supply chain management.
 * Built a public API to upload and validate supply chain related docs.
 * Created an email notification service with user presets and localization features.
 * Redesigned critical services to implement easily-identifiable, modifiable and reversible business rules.
-* Maintained the company´s core message queue library.
+* Maintained the company's core message queue library.
 * Built a budget-friendly solution for handling Geo data.
 * Helped to design a microservices ecosystem for onboarding client data.
 
@@ -22,7 +22,7 @@ Sillicon Valley startup creating a digital platform for supply chain management.
 **Software Engineer** @ [IBM](https://www.ibm.com/planetwide/ar/) _(Apr 2016 - Jul 2017)_  
 Financial/banking sector API infrastructure implementation.
 
-* Took a client-facign role, designing and implementing backend services.
+* Took a client-facing role, designing and implementing backend services.
 * Owned the solution’s Statistics Module, taking the lead of a team of four devs.
 
 > **Core stack:** Java, Spring, SQL Server.  
